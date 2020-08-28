@@ -1,4 +1,4 @@
-# Ambient Light mit Bluetooth
+# Ambient Light
 
 Das Projekt wurde von mir im Rahmen einer Studentenarbeit an der technischen Fachhochschule Nordwestschweiz durchgeführt.
 
