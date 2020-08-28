@@ -1,9 +1,9 @@
 # Ambient Light mit Bluetooth
 
-Das Projekt wird von mir im Rahmen einer Studentenarbeit an der technischen Fachhochschule Nordwestschweiz durchgeführt.
+Das Projekt wurde von mir im Rahmen einer Studentenarbeit an der technischen Fachhochschule Nordwestschweiz durchgeführt.
 
 ## Idee
-Mit einem Arduino sollen verschiedene LEDs einer Lampe angesteuert werden können. Eine zusätzlich App soll so zur Steuerung der LEDs per Bluetooth verwendet werden können, dass die Lampe verschieden Farbtöne produziert und so für angenehmes Ambiente sorgt. 
+Mit einem Arduino sollen verschiedene LEDs einer Lampe angesteuert werden können. Eine zusätzlich App soll mittels Bluetooht so zur Steuerung der LEDs verwendet werden können, dass die Lampe verschieden Farbtöne produziert und so für angenehmes Ambiente sorgt. 
 
 ![ArduionVideo](./Arduino1.jpg)
 
