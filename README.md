@@ -5,6 +5,12 @@ Hinweis: Das Projekt wurde von mir im Rahmen einer Studentenarbeit an der techni
 ## Idee
 Mit einem Arduino sollen verschiedene LEDs einer Lampe angesteuert werden können. Eine zusätzlich App soll mittels Bluetooht so zur Steuerung der LEDs verwendet werden können, dass die Lampe verschieden Farbtöne produziert und so für angenehmes Ambiente sorgt. 
 
+## Technologien
+- Arduino
+- Arduino IDE
+- C++
+
+
 ![ArduionVideo](./Arduino1.jpg)
 
 ![ArduionVideo](./Arduino2.jpg)
