@@ -10,12 +10,12 @@ Mit einem Arduino sollen verschiedene LEDs einer Lampe angesteuert werden könne
 - Arduino IDE
 - C++
 
-
+## Bilder
 ![ArduionVideo](./Arduino1.jpg)
 
 ![ArduionVideo](./Arduino2.jpg)
 
-## Video Endergebnis
+## Demo Video
 [DemoVideo](https://youtu.be/ljIRN8pycBI) </br>
 
 [![ArduionVideo](./ArduinoVideo.jpg)](https://youtu.be/ljIRN8pycBI)
